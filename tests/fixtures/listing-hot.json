@@ -1,0 +1,95 @@
+{
+  "kind": "Listing",
+  "data": {
+    "after": "t3_1czk8ab",
+    "dist": 5,
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "id": "1czk8ab",
+          "subreddit": "emacs",
+          "title": "I finally switched from Vim to Emacs after 10 years",
+          "author": "emacsconvert",
+          "score": 423,
+          "num_comments": 87,
+          "created_utc": 1716950000.0,
+          "permalink": "/r/emacs/comments/1czk8ab/i_finally_switched/",
+          "url": "https://www.reddit.com/r/emacs/comments/1czk8ab/i_finally_switched/",
+          "is_self": true,
+          "selftext": "After resisting for a decade, I finally gave Emacs a real shot.",
+          "over_18": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "1czm3de",
+          "subreddit": "emacs",
+          "title": "org-mode tip: use C-c C-x C-i for clock-in",
+          "author": "orgmodeuser",
+          "score": 312,
+          "num_comments": 42,
+          "created_utc": 1716940000.0,
+          "permalink": "/r/emacs/comments/1czm3de/orgmode_tip/",
+          "url": "https://www.reddit.com/r/emacs/comments/1czm3de/orgmode_tip/",
+          "is_self": true,
+          "selftext": "A simple tip for tracking time in org-mode.",
+          "over_18": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "1czn4fg",
+          "subreddit": "emacs",
+          "title": "Magit 4.0 released",
+          "author": "tarsius",
+          "score": 891,
+          "num_comments": 134,
+          "created_utc": 1716930000.0,
+          "permalink": "/r/emacs/comments/1czn4fg/magit_40_released/",
+          "url": "https://magit.vc/releases/4.0",
+          "is_self": false,
+          "selftext": "",
+          "over_18": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "1czp5gh",
+          "subreddit": "emacs",
+          "title": "Show and tell: my init.el after 5 years",
+          "author": "emacsinit",
+          "score": 156,
+          "num_comments": 23,
+          "created_utc": 1716920000.0,
+          "permalink": "/r/emacs/comments/1czp5gh/show_and_tell/",
+          "url": "https://www.reddit.com/r/emacs/comments/1czp5gh/show_and_tell/",
+          "is_self": true,
+          "selftext": "Sharing my init.el. It has grown organically over 5 years.",
+          "over_18": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "1czq6ij",
+          "subreddit": "emacs",
+          "title": "LSP performance tips for large codebases",
+          "author": "lspperf",
+          "score": 278,
+          "num_comments": 61,
+          "created_utc": 1716910000.0,
+          "permalink": "/r/emacs/comments/1czq6ij/lsp_performance_tips/",
+          "url": "https://www.reddit.com/r/emacs/comments/1czq6ij/lsp_performance_tips/",
+          "is_self": true,
+          "selftext": "Here are some LSP performance tweaks I have collected.",
+          "over_18": false
+        }
+      }
+    ],
+    "before": null
+  }
+}

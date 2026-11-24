@@ -1,0 +1,133 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "id": "1czk8ab",
+            "subreddit": "emacs",
+            "title": "I finally switched from Vim to Emacs after 10 years",
+            "author": "emacsconvert",
+            "score": 423,
+            "num_comments": 5,
+            "created_utc": 1716950000.0,
+            "permalink": "/r/emacs/comments/1czk8ab/i_finally_switched/",
+            "url": "https://www.reddit.com/r/emacs/comments/1czk8ab/i_finally_switched/",
+            "is_self": true,
+            "selftext": "After resisting for a decade, I finally gave Emacs a real shot.",
+            "over_18": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "id": "c1",
+            "author": "topleveluser",
+            "score": 45,
+            "body": "Welcome to the cult! Emacs is life changing.",
+            "created_utc": 1716951000.0,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "id": "c2",
+                      "author": "replier1",
+                      "score": 12,
+                      "body": "Agreed, once you configure it properly it is amazing.",
+                      "created_utc": 1716952000.0,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "id": "c3",
+                                "author": "deepreplier",
+                                "score": 3,
+                                "body": "The configuration is the fun part!",
+                                "created_utc": 1716953000.0,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "id": "c4",
+                                          "author": "verydeep",
+                                          "score": 1,
+                                          "body": "Raw depth 3 reply here.",
+                                          "created_utc": 1716954000.0,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "id": "c5",
+                                                    "author": "deepest",
+                                                    "score": 1,
+                                                    "body": "Raw depth 4 reply, should clamp to cap.",
+                                                    "created_utc": 1716955000.0,
+                                                    "replies": ""
+                                                  }
+                                                }
+                                              ]
+                                            }
+                                          }
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "id": "c6",
+            "author": "secondtop",
+            "score": 28,
+            "body": "The key bindings are hard at first but muscle memory builds fast.",
+            "created_utc": 1716956000.0,
+            "replies": ""
+          }
+        },
+        {
+          "kind": "more",
+          "data": {
+            "id": "_",
+            "children": [
+              "c7",
+              "c8"
+            ]
+          }
+        }
+      ]
+    }
+  }
+]
